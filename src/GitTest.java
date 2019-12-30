@@ -8,4 +8,6 @@ public class GitTest {
 //    dev 新增加文件
 
 //    merge origin/dev into sit ,push sit to origin...
+
+    //sit-hotfix测试
 }
